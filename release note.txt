@@ -1,16 +1,50 @@
-v1.0 リリースノート
+<en-US>
+v1.1 release notes
+
+release date
+October 4, 2023
+release version
+v1.1
+overview
+
+v1.1 has the following features:
+
+RubkisCube game features.
+Learning how to align RubkisCube
+Manually input RubkisCube game features
+Localization function
+</en-US>
+
+<zh-CN>
+v1.1 发布说明
+
+发布日期
+2023 年 10 月 4 日
+发布版本
+v1.1
+概述
+
+v1.1有以下特点：
+
+RubkisCube 游戏功能
+学习如何还原RubkisCube
+手动输入RubkisCube游戏功能
+本地化功能
+</zh-CN>
+
+<ja-JP>
+v1.1 リリースノート
 
 リリース日
 2023年10月4日
 リリースバージョン
-v1.0
+v1.1
 概要
 
-v1.0では以下の機能があります。
+v1.1では以下の機能があります。
 
 RubkisCubeゲーム機能。
 RubkisCube揃え方の学習
 手入力のRubkisCubeゲーム機能
 Localization機能
-
-
+</ja-JP>
